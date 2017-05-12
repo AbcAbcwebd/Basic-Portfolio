@@ -54,6 +54,9 @@ footer {
 	width: 100%;
 	overflow: hidden;
 	background-color: #666666;
+	position: relative;
+	position:absolute; 
+	bottom:0;
 }
 
 .seccon {
