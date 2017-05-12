@@ -56,9 +56,10 @@ footer {
 	overflow: hidden;
 	background-color: #666666;
 	position: relative;
-	position:absolute; 
+	position: relative; 
 	bottom: 0;
 	border-top: 6px solid #4aaaa5; 
+	height: 150px;
 }
 
 .seccon {
@@ -118,6 +119,7 @@ h1 h2 h3 {
     margin-right: auto;
     color: white;
     width: 15em;
+    margin-top: 30px;
 }
 
 #con_head {
@@ -199,9 +201,72 @@ button {
 	margin: 25px 30px 5px 28px;
 }
 
-.port_over {
+.port_over1 {
 	position: absolute; 
-	top: 17%; 
+	top: 23%; 
+	margin-left: 27px;
+	width: 40%;
+	color: white;
+	background-color: #4aaaa5;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+
+.port_over2 {
+	position: absolute; 
+	top: 23%; 
+	right: 5.2%;
+	margin-left: 27px;
+	width: 40%;
+	color: white;
+	background-color: #4aaaa5;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+
+.port_over3 {
+	position: absolute; 
+	top: 59%; 
+	margin-left: 27px;
+	width: 40%;
+	color: white;
+	background-color: #4aaaa5;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+
+.port_over4 {
+	position: absolute; 
+	top: 59%; 
+	right: 5.2%;
+	margin-left: 27px;
+	width: 40%;
+	color: white;
+	background-color: #4aaaa5;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+
+.port_over5 {
+	position: absolute; 
+	top: 88%; 
+	margin-left: 27px;
+	width: 40%;
+	color: white;
+	background-color: #4aaaa5;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+
+.port_over6 {
+	position: absolute; 
+	top: 88%; 
+	right: 5.2%;
 	margin-left: 27px;
 	width: 40%;
 	color: white;
