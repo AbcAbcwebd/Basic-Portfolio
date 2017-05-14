@@ -62,7 +62,6 @@ footer {
 	overflow: hidden;
 	background-color: #666666;
 	position: relative;
-	position: relative; 
 	bottom: 0;
 	border-top: 6px solid #4aaaa5; 
 	height: 150px;
@@ -281,8 +280,14 @@ button {
 }
 
 #home_footer {
-	position: absolute;
+	position: relative;
+	top: 80px;
 }
 
 form {
+}
+
+#cont_foot {
+	position: relative;
+	top: 70px;
 }
