@@ -99,6 +99,11 @@ header h1 {
 	font-size: 30px;
 }
 
+#port_header {
+	padding-top: 0px;
+	font-size: 30px;
+}
+
 article {
 }
 
@@ -265,8 +270,8 @@ button {
 
 .port_over5 {
 	position: absolute; 
-	top: 88%; 
-	margin-left: 27px;
+	top: 87%; 
+	margin-left: 28px;
 	width: 40%;
 	color: white;
 	background-color: #4aaaa5;
@@ -277,7 +282,7 @@ button {
 
 .port_over6 {
 	position: absolute; 
-	top: 88%; 
+	top: 87%; 
 	right: 5.2%;
 	margin-left: 27px;
 	width: 40%;
